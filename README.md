@@ -1,5 +1,6 @@
-# SpaceEngineering_Task1
+# Space Engineering Task 1:
 # 🌓 Bereshit Moon Landing Simulation
+## Submitted by: Yevgeny Ivanov 324780246, Koren Abdush 209271535
 
 This repository simulates the descent and landing of the **Beresheet Lunar Module**, using physical models and flight control strategies aimed at improving upon the real mission's outcome. The simulation demonstrates a successful landing with optimized fuel usage and precise descent control.
 
