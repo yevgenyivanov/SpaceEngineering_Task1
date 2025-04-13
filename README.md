@@ -25,7 +25,7 @@ The simulation, visualized in the figure below, demonstrates:
 
 ![Simulation Results](Figure_1.png)
 
-> [Click here to view the simulation figure directly](./Figure_1.png)
+
 
 The simulation shows a final touchdown with safe speeds and approximately **20 kg of fuel remaining**, demonstrating that the mission could have succeeded under adjusted conditions.
 
